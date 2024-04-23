@@ -68,3 +68,11 @@ footer{
     color: white;
     text-align: center;
 }
+@media (max-width:500px){
+    #box{
+        width: 100%;
+    }
+    .container{
+        display: block;
+    }
+}
