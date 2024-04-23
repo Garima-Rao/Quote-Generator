@@ -63,3 +63,8 @@ button:hover{
 #btn5{
     color: #4169e1;
 }
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
