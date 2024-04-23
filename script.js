@@ -37,32 +37,32 @@ let confiqu=["“No one can make you feel inferior without your consent.” - El
 "“I can be changed by what happens to me. But I refuse to be reduced by it.” ­­-­ Maya Angelou",
 
  "“Because one believes in oneself, one doesn't try to convince. Because one is content with oneself, one doesn't need others' approval. Because one accepts oneself, the whole world accepts him or her.- Laozi",
- "With realization of one's own potential and self-confidence in one's ability, one can build a better world.”- The Dalai Lama",
+ "“With realization of one's own potential and self-confidence in one's ability, one can build a better world.”- The Dalai Lama",
 
-"If you have no confidence in self, you are twice defeated in the race of life. With confidence, you have won even before you have started.”- Cicero",
+"“If you have no confidence in self, you are twice defeated in the race of life. With confidence, you have won even before you have started.”- Cicero",
 
-"Do not let what you cannot do interfere with what you can do.”- John Wooden",
+"“Do not let what you cannot do interfere with what you can do.”- John Wooden",
 
-"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within.” - Elisabeth Kubler-Ross",
+"“People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within.” - Elisabeth Kubler-Ross",
 
 "We gain strength, and courage, and confidence by each experience in which we really stop to look fear in the face ... we must do that which we think we cannot.”- Eleanor Roosevelt",
 
-"Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.” ­- Marie Curie",
+"“Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.” ­- Marie Curie",
 
-"You're never as good as everyone tells you when you win, and you're never as bad as they say when you lose.”- Lou Holtz",
+"“You're never as good as everyone tells you when you win, and you're never as bad as they say when you lose.”- Lou Holtz",
 
 
-"Don't wait until everything is just right. It will never be perfect. There will always be challenges, obstacles and less than perfect conditions. So what? Get started now. With each step you take, you will grow stronger and stronger, more and more skilled, more and more self-confident, and more and more successful.”­- Mark Victor Hansen",
+"“Don't wait until everything is just right. It will never be perfect. There will always be challenges, obstacles and less than perfect conditions. So what? Get started now. With each step you take, you will grow stronger and stronger, more and more skilled, more and more self-confident, and more and more successful.”­- Mark Victor Hansen",
 
 "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.” ­- George Washington",
 
-"If you hear a voice within you say 'you cannot paint,' then by all means paint, and that voice will be silenced.”- Vincent Van Gogh",
+"“If you hear a voice within you say 'you cannot paint,' then by all means paint, and that voice will be silenced.”- Vincent Van Gogh",
 
-"Courage is resistance to fear, mastery of fear, not absence of fear.”- Mark Twain",
+"“Courage is resistance to fear, mastery of fear, not absence of fear.”- Mark Twain",
 
-"Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.” ­­- Bernard Baruch",
+"“Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.” ­­- Bernard Baruch",
 
- "It's not the lack of ability or opportunity that holds you back; it is only a lack of confidence in yourself.”— Richard Monckton Milnes"
+ "“It's not the lack of ability or opportunity that holds you back; it is only a lack of confidence in yourself.”— Richard Monckton Milnes"
 
 ]
 
